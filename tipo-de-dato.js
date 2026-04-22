@@ -4,6 +4,7 @@ console.log("Hola")
 //number
 console.log(typeof 42)
 console.log(typeof -666)
+console.log(typeof 0)
 
 //string
 let edad = 'veinticinco'
