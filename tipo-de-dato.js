@@ -22,3 +22,7 @@ console.log(typeof encendido)
 //null
 let cumpleaños = null
 console.log(typeof cumpleaños)
+
+//undefined
+let apariencia
+console.log(typeof apariencia)
