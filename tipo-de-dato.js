@@ -10,6 +10,9 @@ console.log(typeof 0)
 let edad = 'veinticinco'
 console.log(typeof edad)
 
+let cantante = 'Andrea Bocelli'
+console.log(typeof cantante)
+
 //boolean
 
 let encendido = true
