@@ -1,3 +1,5 @@
-console.log(typeof 42);
-
+// saludo
 console.log("Hola")
+
+//number
+console.log(typeof 42)
