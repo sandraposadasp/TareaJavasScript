@@ -18,3 +18,7 @@ console.log(typeof cantante)
 let encendido = true
 let apagado = false
 console.log(typeof encendido)
+
+//null
+let cumpleaños = null
+console.log(typeof cumpleaños)
