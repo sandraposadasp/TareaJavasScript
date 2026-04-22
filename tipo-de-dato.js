@@ -8,3 +8,9 @@ console.log(typeof -666)
 //string
 let edad = 'veinticinco'
 console.log(typeof edad)
+
+//boolean
+
+let encendido = true
+let apagado = false
+console.log(typeof encendido)
