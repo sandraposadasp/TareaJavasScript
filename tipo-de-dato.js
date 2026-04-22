@@ -19,6 +19,10 @@ let encendido = true
 let apagado = false
 console.log(typeof encendido)
 
+let soleado = true
+let nublado = false
+console.log(typeof nublado)
+
 //null
 let cumpleaños = null
 console.log(typeof cumpleaños)
