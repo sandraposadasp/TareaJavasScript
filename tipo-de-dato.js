@@ -24,8 +24,8 @@ let nublado = false;
 console.log(typeof nublado);
 
 //null
-let cumpleaños = null;
-console.log(typeof cumpleaños);
+let aniversario = null;
+console.log(typeof aniversario);
 
 //undefined
 let apariencia;
