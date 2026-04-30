@@ -17,3 +17,7 @@ if (nota > 0) {
      } else if (nota < 60) {
         console.log("No aprueba");
     }
+
+} else {
+    console.log("La nota debe ser mayor que 0");
+}
