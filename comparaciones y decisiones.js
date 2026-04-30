@@ -7,3 +7,6 @@ if (nota > 0) {
 
      if (nota >= 90) {
     console.log("Excelente");
+
+     } else if (nota >= 75 && nota <= 89) {
+        console.log("Bien");
