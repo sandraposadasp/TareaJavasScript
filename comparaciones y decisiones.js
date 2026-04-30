@@ -21,3 +21,5 @@ if (nota > 0) {
 } else {
     console.log("La nota debe ser mayor que 0");
 }
+
+    
