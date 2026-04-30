@@ -10,3 +10,10 @@ if (nota > 0) {
 
      } else if (nota >= 75 && nota <= 89) {
         console.log("Bien");
+
+    } else if (nota >= 60 && nota <= 74) {
+        console.log("Suficiente");
+
+     } else if (nota < 60) {
+        console.log("No aprueba");
+    }
