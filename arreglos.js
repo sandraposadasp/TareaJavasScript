@@ -38,3 +38,8 @@ for (let i = 0; i < frutas.length; i++) {
         conteo[tipo]++;
     }
 }
+
+console.log("neutras:", conteo.neutras);
+console.log("dulces:", conteo.dulces);
+console.log("semiacidas:", conteo.semiacidas);
+console.log("acidas:", conteo.acidas);
