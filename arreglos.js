@@ -29,3 +29,12 @@ let tipos = {
     piña: "acidas",
     mora: "acidas"
 };
+
+for (let i = 0; i < frutas.length; i++) {
+    let fruta = frutas[i];
+    let tipo = tipos[fruta];
+
+    if (tipo) {
+        conteo[tipo]++;
+    }
+}
