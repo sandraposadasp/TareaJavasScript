@@ -8,3 +8,24 @@ let conteo = {
     semiacidas: 0,
     acidas: 0
 };
+
+let tipos = {
+    platano: "dulces",
+    coco: "neutras",
+    fresa: "semiacidas",
+    melon: "dulces",
+    limon: "acidas",
+    naranja: "acidas",
+    mango: "semiacidas",
+    papaya: "dulces",
+    aguacate: "neutras",
+    durazno: "semiacidas",
+    cereza: "neutras",
+    frambuesa: "semiacidas",
+    ciruela: "dulces",
+    mandarina: "acidas",
+    kiwi: "acidas",
+    mamey: "dulces",
+    piña: "acidas",
+    mora: "acidas"
+};
