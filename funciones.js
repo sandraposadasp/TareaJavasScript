@@ -17,3 +17,11 @@ function agregarLibro (titulo){
 LibrosLeidos.push(titulo);
   console.log(`"${titulo}" fue agregado`);
 }
+
+function mostrarLibrosLeidos (){
+    //imprime todos los libros leidos
+    console.log("Libros leídos:");
+  for (let i = 0; i < LibrosLeidos.length; i++) {
+    console.log(`${i + 1}. ${LibrosLeidos[i]}`);
+  }
+}
