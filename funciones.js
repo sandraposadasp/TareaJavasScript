@@ -11,3 +11,9 @@ let LibrosLeidos = [
     'Entrevista con el vampiro',
     'Los juegos del hambre'
 ];
+
+function agregarLibro (titulo){
+//añade un libro al array
+LibrosLeidos.push(titulo);
+  console.log(`"${titulo}" fue agregado`);
+}
