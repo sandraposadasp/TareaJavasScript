@@ -25,3 +25,7 @@ function mostrarLibrosLeidos (){
     console.log(`${i + 1}. ${LibrosLeidos[i]}`);
   }
 }
+
+// Llamada a las funciones
+agregarLibro('Cien años de Soledad');
+mostrarLibrosLeidos();
