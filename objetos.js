@@ -25,3 +25,9 @@ function Libro(titulo, autor, anio, estado){
         console.log(`libro titulado ${this.titulo}, escrito por ${this.autor}, en el anio ${this.anio}, el estado es ${this.estado} `)
     }
 }
+
+let Libro1 = new Libro ('El mundo de Sofia', 'Jostein Gaarder', 1991, 'disponible');
+Libro1.describirLibro();
+
+let Libro2 = new Libro ('Entrevista con el vampiro', 'Anne Rice', 1976, 'prestado');
+Libro2.describirLibro();
